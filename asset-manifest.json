@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/thucungshop/static/css/main.c58af01c.css",
-    "main.js": "/thucungshop/static/js/main.9aa584f4.js",
-    "static/media/slick.svg": "/thucungshop/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/thucungshop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/thucungshop/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/thucungshop/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/thucungshop/index.html",
-    "main.c58af01c.css.map": "/thucungshop/static/css/main.c58af01c.css.map",
-    "main.9aa584f4.js.map": "/thucungshop/static/js/main.9aa584f4.js.map"
+    "main.css": "//kyhaidang.github.io/dog-products/static/css/main.57a9c802.css",
+    "main.js": "//kyhaidang.github.io/dog-products/static/js/main.cf32f830.js",
+    "static/media/slick.svg": "//kyhaidang.github.io/dog-products/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "//kyhaidang.github.io/dog-products/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "//kyhaidang.github.io/dog-products/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "//kyhaidang.github.io/dog-products/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "//kyhaidang.github.io/dog-products/index.html",
+    "main.57a9c802.css.map": "//kyhaidang.github.io/dog-products/static/css/main.57a9c802.css.map",
+    "main.cf32f830.js.map": "//kyhaidang.github.io/dog-products/static/js/main.cf32f830.js.map"
   },
   "entrypoints": [
-    "static/css/main.c58af01c.css",
-    "static/js/main.9aa584f4.js"
+    "static/css/main.57a9c802.css",
+    "static/js/main.cf32f830.js"
   ]
 }
