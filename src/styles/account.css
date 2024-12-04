@@ -1,0 +1,35 @@
+.account-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+.account-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.account-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.account-form input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.account-form button {
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.account-form button:hover {
+    background-color: #218838;
+}

@@ -1,0 +1,91 @@
+/* HomePage.css */
+
+.home-page {
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #fff;
+  padding: 10px 20px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo img {
+  width: 150px;
+}
+
+.header-text {
+  font-size: 14px;
+  color: brown;
+}
+
+.header-middle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.search-bar input {
+  padding: 10px;
+  width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.header-buttons a {
+  margin-left: 20px;
+  font-size: 16px;
+  color: #333;
+  text-decoration: none;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.header-menu a {
+  margin: 0 15px;
+  color: brown;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.banner {
+  text-align: center;
+}
+
+.banner-img {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.info-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.info-button {
+  background-color: #c80e0e;
+  border: 1px solid #ccc;
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.info-button:hover {
+  background-color: #750a0a;
+}

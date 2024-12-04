@@ -1,0 +1,14 @@
+/* src/styles/checkout.css */
+h2 {
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #555;
+    text-align: center;
+  }
+      
