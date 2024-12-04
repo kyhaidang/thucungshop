@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/thucungshop/static/css/main.c58af01c.css",
+    "main.js": "/thucungshop/static/js/main.9aa584f4.js",
+    "static/media/slick.svg": "/thucungshop/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/thucungshop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/thucungshop/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/thucungshop/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/thucungshop/index.html",
+    "main.c58af01c.css.map": "/thucungshop/static/css/main.c58af01c.css.map",
+    "main.9aa584f4.js.map": "/thucungshop/static/js/main.9aa584f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58af01c.css",
+    "static/js/main.9aa584f4.js"
+  ]
+}
